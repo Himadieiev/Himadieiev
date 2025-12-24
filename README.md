@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Himadieiev Ruslan</h1>
 
 <p align="center">
-I am a beginner frontend developer. Currently, I am actively seeking job opportunities and would welcome any offers for collaboration. You can view all of my work and projects here. Thank you for your attention!  
+Front-end developer (React, Angular). Open to new job opportunities and collaboration. This profile contains my projects, experiments, and ongoing work.  
 </p>
 
 <div align="center">
