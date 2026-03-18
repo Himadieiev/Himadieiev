@@ -20,6 +20,8 @@ Front-end developer (React, Angular). Open to new job opportunities and collabor
 [![CSS3](https://img.shields.io/badge/CSS3-BA0C2F?style=flat&logo=css3&logoColor=#1572B6)](#)
 [![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=#F7DF1E)](#)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-grey?style=flat&logo=react&logoColor=white)](#)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=#764ABC)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](#)
